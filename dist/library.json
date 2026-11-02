@@ -1,0 +1,1191 @@
+[
+  {
+    "id": "wger-73",
+    "name": "Supino reto com barra",
+    "group": "peito",
+    "muscles": [
+      "peitoral"
+    ],
+    "secondaryMuscles": [
+      "deltoides",
+      "tríceps"
+    ],
+    "equipment": "barra",
+    "movement": "empurrar",
+    "complexity": 1,
+    "instructions": [
+      "Mantenha os pés apoiados e as escápulas estáveis.",
+      "Desça a barra com controle até próximo ao peito, sem quicar.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/73.mp4",
+    "poster": "media/73.jpg",
+    "source": "https://wger.de/en/exercise/73/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/73/2bdb390c-312c-4497-a722-5eed2c823e5a.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "sistab2",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-75"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "sistab2",
+    "pattern": "supino"
+  },
+  {
+    "id": "wger-75",
+    "name": "Supino reto com halteres",
+    "group": "peito",
+    "muscles": [
+      "peitoral"
+    ],
+    "secondaryMuscles": [
+      "deltoides",
+      "tríceps"
+    ],
+    "equipment": "halteres",
+    "movement": "empurrar",
+    "complexity": 1,
+    "instructions": [
+      "Apoie os pés e mantenha os punhos alinhados.",
+      "Desça com controle e empurre sem bater os halteres.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/75.mp4",
+    "poster": "media/75.jpg",
+    "source": "https://wger.de/en/exercise/75/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/75/080c799b-8afd-4130-8d72-9cef0cd79f54.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-73"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "supino"
+  },
+  {
+    "id": "wger-537",
+    "name": "Supino inclinado com halteres",
+    "group": "peito",
+    "muscles": [
+      "peitoral"
+    ],
+    "secondaryMuscles": [
+      "deltoides",
+      "tríceps"
+    ],
+    "equipment": "halteres",
+    "movement": "empurrar",
+    "complexity": 1,
+    "instructions": [
+      "Apoie as costas no banco inclinado.",
+      "Mantenha os antebraços alinhados e controle a descida.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/537.mp4",
+    "poster": "media/537.jpg",
+    "source": "https://wger.de/en/exercise/537/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/537/b9c937e9-daeb-42a9-be8e-7a77e368478c.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-538"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "supino-inclinado"
+  },
+  {
+    "id": "wger-538",
+    "name": "Supino inclinado com barra",
+    "group": "peito",
+    "muscles": [
+      "peitoral"
+    ],
+    "secondaryMuscles": [
+      "deltoides",
+      "tríceps"
+    ],
+    "equipment": "barra",
+    "movement": "empurrar",
+    "complexity": 1,
+    "instructions": [
+      "Use banco inclinado e apoie os pés.",
+      "Desça a barra em direção à parte superior do peito, com controle.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/538.mp4",
+    "poster": "media/538.jpg",
+    "source": "https://wger.de/en/exercise/538/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/538/4349a6f6-4cee-4c09-828b-c5e7fc2c1ff1.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-537"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "supino-inclinado"
+  },
+  {
+    "id": "wger-348",
+    "name": "Elevação lateral",
+    "group": "ombros",
+    "muscles": [
+      "deltoides"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "halteres",
+    "movement": "empurrar",
+    "complexity": 0,
+    "instructions": [
+      "Mantenha uma leve flexão nos cotovelos.",
+      "Eleve os braços até a linha dos ombros, sem embalar o tronco.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/348.mp4",
+    "poster": "media/348.jpg",
+    "source": "https://wger.de/en/exercise/348/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/348/de69928a-8a35-4096-821c-1f46de5e0e03.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "elevação-lateral"
+  },
+  {
+    "id": "wger-567",
+    "name": "Desenvolvimento com halteres",
+    "group": "ombros",
+    "muscles": [
+      "deltoides"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "halteres",
+    "movement": "empurrar",
+    "complexity": 1,
+    "instructions": [
+      "Apoie as costas e mantenha o abdômen firme.",
+      "Empurre os halteres acima dos ombros e desça com controle.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/567.mp4",
+    "poster": "media/567.jpg",
+    "source": "https://wger.de/en/exercise/567/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/567/64f33c19-1d96-4b7c-af17-6c6a4941c614.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-543"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "desenvolvimento"
+  },
+  {
+    "id": "wger-543",
+    "name": "Desenvolvimento na máquina",
+    "group": "ombros",
+    "muscles": [
+      "deltoides"
+    ],
+    "secondaryMuscles": [
+      "tríceps"
+    ],
+    "equipment": "máquinas",
+    "movement": "empurrar",
+    "complexity": 0,
+    "instructions": [
+      "Ajuste o banco para alinhar as alças aos ombros.",
+      "Empurre sem tirar as costas do apoio.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/543.mp4",
+    "poster": "media/543.jpg",
+    "source": "https://wger.de/en/exercise/543/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/543/dbfd396b-1aab-4a64-a50b-2c31ff0a2cf7.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-567"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "desenvolvimento"
+  },
+  {
+    "id": "wger-659",
+    "name": "Tríceps na polia",
+    "group": "tríceps",
+    "muscles": [
+      "tríceps"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "polia",
+    "movement": "empurrar",
+    "complexity": 0,
+    "instructions": [
+      "Mantenha os cotovelos próximos ao corpo.",
+      "Estenda os braços sem balançar o tronco e retorne devagar.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/659.mp4",
+    "poster": "media/659.jpg",
+    "source": "https://wger.de/en/exercise/659/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/659/1f2eb3b6-3185-429f-8330-26dc88f39aff.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "tríceps-polia"
+  },
+  {
+    "id": "wger-245",
+    "name": "Tríceps testa com halteres",
+    "group": "tríceps",
+    "muscles": [
+      "tríceps"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "halteres",
+    "movement": "empurrar",
+    "complexity": 1,
+    "instructions": [
+      "Deite no banco e mantenha os braços estáveis.",
+      "Flexione os cotovelos com controle e estenda sem abrir os braços.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/245.mp4",
+    "poster": "media/245.jpg",
+    "source": "https://wger.de/en/exercise/245/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/245/c253303e-9160-4f1f-b4fe-daf1e6c8661d.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "tríceps-testa"
+  },
+  {
+    "id": "wger-655",
+    "name": "Tríceps coice",
+    "group": "tríceps",
+    "muscles": [
+      "tríceps"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "halteres",
+    "movement": "empurrar",
+    "complexity": 1,
+    "instructions": [
+      "Apoie o tronco e mantenha o braço junto ao corpo.",
+      "Estenda o cotovelo sem mover o ombro.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/655.mp4",
+    "poster": "media/655.jpg",
+    "source": "https://wger.de/en/exercise/655/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/655/2d88a05b-bde3-4026-bfbf-524c11068dc5.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "http://www.bodybuilding.com/",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "http://www.bodybuilding.com/",
+    "pattern": "tríceps-coice"
+  },
+  {
+    "id": "wger-803",
+    "name": "Tríceps unilateral acima da cabeça na polia",
+    "group": "tríceps",
+    "muscles": [
+      "tríceps"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "polia",
+    "movement": "empurrar",
+    "complexity": 0,
+    "instructions": [
+      "Mantenha o braço elevado e estável, ao lado da cabeça.",
+      "Flexione e estenda o cotovelo sem mover o ombro.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/803.mp4",
+    "poster": "media/803.jpg",
+    "source": "https://wger.de/en/exercise/803/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/803/99e0001f-217a-4b11-823c-014d24a5415e.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "",
+    "dataLicense": {
+      "id": 2,
+      "full_name": "Creative Commons Attribution Share Alike 4",
+      "short_name": "CC-BY-SA 4",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [],
+    "dataLicenseName": "CC-BY-SA 4",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "dataLicenseAuthor": "",
+    "pattern": "tríceps-acima"
+  },
+  {
+    "id": "wger-512",
+    "name": "Remada sentada, pegada fechada",
+    "group": "costas",
+    "muscles": [
+      "latíssimo do dorso"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "polia",
+    "movement": "puxar",
+    "complexity": 0,
+    "instructions": [
+      "Mantenha a coluna neutra e os pés apoiados.",
+      "Puxe em direção ao abdômen sem embalar o tronco.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/512.mp4",
+    "poster": "media/512.jpg",
+    "source": "https://wger.de/en/exercise/512/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/512/fff4c294-93f0-4926-b3a2-bf59ad4afaa5.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "remada"
+  },
+  {
+    "id": "wger-475",
+    "name": "Barra fixa",
+    "group": "costas",
+    "muscles": [
+      "latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "deltoides",
+      "bíceps",
+      "trapézio"
+    ],
+    "equipment": "barra fixa",
+    "movement": "puxar",
+    "complexity": 2,
+    "instructions": [
+      "Inicie com pegada firme e ombros ativos.",
+      "Suba sem impulso e desça com controle.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/475.mp4",
+    "poster": "media/475.jpg",
+    "source": "https://wger.de/en/exercise/475/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/475/83067ffe-ccb9-4e22-8507-5131b211ce74.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "puxada-vertical"
+  },
+  {
+    "id": "wger-222",
+    "name": "Face pull",
+    "group": "ombros",
+    "muscles": [
+      "trapézio"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "polia",
+    "movement": "puxar",
+    "complexity": 1,
+    "instructions": [
+      "Ajuste a polia na altura do rosto.",
+      "Puxe a corda em direção ao rosto, abrindo os cotovelos.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/222.mp4",
+    "poster": "media/222.jpg",
+    "source": "https://wger.de/en/exercise/222/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/222/eea93fcc-6a3c-4783-8f70-0234c791a001.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "abeworld",
+    "dataLicense": {
+      "id": 2,
+      "full_name": "Creative Commons Attribution Share Alike 4",
+      "short_name": "CC-BY-SA 4",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-82"
+    ],
+    "dataLicenseName": "CC-BY-SA 4",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "dataLicenseAuthor": "abeworld",
+    "pattern": "posterior-ombro"
+  },
+  {
+    "id": "wger-82",
+    "name": "Crucifixo inverso inclinado",
+    "group": "ombros",
+    "muscles": [
+      "ombros"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "halteres",
+    "movement": "puxar",
+    "complexity": 1,
+    "instructions": [
+      "Incline o tronco mantendo a coluna neutra.",
+      "Abra os braços sem embalar e retorne devagar.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/82.mp4",
+    "poster": "media/82.jpg",
+    "source": "https://wger.de/en/exercise/82/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/82/28b53647-27e7-47cf-8852-2ee666c8b628.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "apeschel",
+    "dataLicense": {
+      "id": 2,
+      "full_name": "Creative Commons Attribution Share Alike 4",
+      "short_name": "CC-BY-SA 4",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-222"
+    ],
+    "dataLicenseName": "CC-BY-SA 4",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "dataLicenseAuthor": "apeschel",
+    "pattern": "posterior-ombro"
+  },
+  {
+    "id": "wger-91",
+    "name": "Rosca direta com barra",
+    "group": "bíceps",
+    "muscles": [
+      "bíceps"
+    ],
+    "secondaryMuscles": [
+      "braquial"
+    ],
+    "equipment": "barra",
+    "movement": "puxar",
+    "complexity": 0,
+    "instructions": [
+      "Mantenha os cotovelos próximos ao tronco.",
+      "Flexione os braços sem usar impulso.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/91.mp4",
+    "poster": "media/91.jpg",
+    "source": "https://wger.de/en/exercise/91/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/91/483f4bff-e108-41f1-8e7b-0caf24952552.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-92",
+      "wger-95"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "rosca"
+  },
+  {
+    "id": "wger-92",
+    "name": "Rosca com halteres",
+    "group": "bíceps",
+    "muscles": [
+      "bíceps"
+    ],
+    "secondaryMuscles": [
+      "braquial"
+    ],
+    "equipment": "halteres",
+    "movement": "puxar",
+    "complexity": 0,
+    "instructions": [
+      "Mantenha os punhos alinhados e os ombros estáveis.",
+      "Flexione os cotovelos sem balançar o corpo.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/92.mp4",
+    "poster": "media/92.jpg",
+    "source": "https://wger.de/en/exercise/92/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/92/8bfb917c-3d0d-49b9-8073-5d7e01c1b894.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-91",
+      "wger-95"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "rosca"
+  },
+  {
+    "id": "wger-95",
+    "name": "Rosca na polia",
+    "group": "bíceps",
+    "muscles": [
+      "bíceps"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "polia",
+    "movement": "puxar",
+    "complexity": 0,
+    "instructions": [
+      "Mantenha o tronco estável e os cotovelos junto ao corpo.",
+      "Puxe a barra flexionando os cotovelos e retorne devagar.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/95.mp4",
+    "poster": "media/95.jpg",
+    "source": "https://wger.de/en/exercise/95/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/95/ab770931-47d3-44fd-aef0-ac7a64c3b794.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-91",
+      "wger-92"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "rosca"
+  },
+  {
+    "id": "wger-272",
+    "name": "Rosca martelo",
+    "group": "bíceps",
+    "muscles": [
+      "bíceps"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "halteres",
+    "movement": "puxar",
+    "complexity": 0,
+    "instructions": [
+      "Mantenha as palmas voltadas uma para a outra.",
+      "Flexione os cotovelos sem mover os ombros.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/272.mp4",
+    "poster": "media/272.jpg",
+    "source": "https://wger.de/en/exercise/272/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/272/df069052-2173-4f24-855f-a0eebe729f24.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-275"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "rosca-neutra"
+  },
+  {
+    "id": "wger-275",
+    "name": "Rosca martelo na polia",
+    "group": "bíceps",
+    "muscles": [
+      "bíceps"
+    ],
+    "secondaryMuscles": [
+      "braquial"
+    ],
+    "equipment": "polia",
+    "movement": "puxar",
+    "complexity": 0,
+    "instructions": [
+      "Segure a corda com pegada neutra.",
+      "Flexione os cotovelos mantendo os braços junto ao tronco.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/275.mp4",
+    "poster": "media/275.jpg",
+    "source": "https://wger.de/en/exercise/275/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/275/af1fff93-eb58-4ba7-97a4-b38ee67853b4.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-272"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "rosca-neutra"
+  },
+  {
+    "id": "wger-205",
+    "name": "Afundo parado com halteres",
+    "group": "pernas",
+    "muscles": [
+      "quadríceps"
+    ],
+    "secondaryMuscles": [
+      "glúteos"
+    ],
+    "equipment": "halteres",
+    "movement": "pernas",
+    "complexity": 1,
+    "instructions": [
+      "Mantenha as pernas afastadas à frente e atrás.",
+      "Flexione os joelhos com controle, mantendo o pé da frente apoiado.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/205.mp4",
+    "poster": "media/205.jpg",
+    "source": "https://wger.de/en/exercise/205/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/205/c167ac34-ddbc-4e1b-8edf-1192e9d00e22.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "afundo"
+  },
+  {
+    "id": "wger-371",
+    "name": "Leg press",
+    "group": "pernas",
+    "muscles": [
+      "posteriores da coxa",
+      "panturrilhas",
+      "glúteos",
+      "quadríceps"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "máquinas",
+    "movement": "pernas",
+    "complexity": 0,
+    "instructions": [
+      "Mantenha as costas e o quadril apoiados.",
+      "Flexione até a amplitude confortável sem levantar o quadril.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/371.mp4",
+    "poster": "media/371.jpg",
+    "source": "https://wger.de/en/exercise/371/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/371/6aae16b4-01b9-4eb4-935c-3250f84d2c59.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "BFad07",
+    "dataLicense": {
+      "id": 3,
+      "full_name": "Creative Commons Public Domain 1.0",
+      "short_name": "CC0",
+      "url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-341"
+    ],
+    "dataLicenseName": "CC0",
+    "dataLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "dataLicenseAuthor": "BFad07",
+    "pattern": "agachamento"
+  },
+  {
+    "id": "wger-365",
+    "name": "Mesa flexora",
+    "group": "pernas",
+    "muscles": [
+      "posteriores da coxa"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "máquinas",
+    "movement": "pernas",
+    "complexity": 0,
+    "instructions": [
+      "Alinhe os joelhos ao eixo da máquina.",
+      "Flexione os joelhos sem levantar o quadril do banco.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/365.mp4",
+    "poster": "media/365.jpg",
+    "source": "https://wger.de/en/exercise/365/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/365/becaf013-5044-40d0-bae9-7ed60c973737.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-366"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "flexora"
+  },
+  {
+    "id": "wger-366",
+    "name": "Cadeira flexora",
+    "group": "pernas",
+    "muscles": [
+      "posteriores da coxa"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "máquinas",
+    "movement": "pernas",
+    "complexity": 0,
+    "instructions": [
+      "Ajuste os apoios e alinhe os joelhos ao eixo.",
+      "Flexione os joelhos com controle sem deslocar o tronco.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/366.mp4",
+    "poster": "media/366.jpg",
+    "source": "https://wger.de/en/exercise/366/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/366/43df4b79-d4c3-4fbf-bcb5-e0d825b84120.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-365"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "flexora"
+  },
+  {
+    "id": "wger-341",
+    "name": "Agachamento no Smith",
+    "group": "pernas",
+    "muscles": [
+      "quadríceps"
+    ],
+    "secondaryMuscles": [
+      "glúteos"
+    ],
+    "equipment": "máquinas",
+    "movement": "pernas",
+    "complexity": 1,
+    "instructions": [
+      "Ajuste a barra e mantenha os pés estáveis.",
+      "Agache com controle e mantenha os joelhos alinhados aos pés.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/341.mp4",
+    "poster": "media/341.jpg",
+    "source": "https://wger.de/en/exercise/341/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/341/0cbfeace-dda9-4166-8424-f51358e88a4f.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-371"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "agachamento"
+  },
+  {
+    "id": "wger-507",
+    "name": "Levantamento romeno com halteres",
+    "group": "pernas",
+    "muscles": [
+      "posteriores da coxa",
+      "glúteos"
+    ],
+    "secondaryMuscles": [
+      "trapézio"
+    ],
+    "equipment": "halteres",
+    "movement": "pernas",
+    "complexity": 2,
+    "instructions": [
+      "Mantenha os halteres próximos às pernas e os joelhos levemente flexionados.",
+      "Leve o quadril para trás sem arredondar as costas.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/507.mp4",
+    "poster": "media/507.jpg",
+    "source": "https://wger.de/en/exercise/507/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/507/307e7276-a14d-4ea0-b579-f5b0dbc6f5af.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "pjwirth",
+    "dataLicense": {
+      "id": 2,
+      "full_name": "Creative Commons Attribution Share Alike 4",
+      "short_name": "CC-BY-SA 4",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [],
+    "dataLicenseName": "CC-BY-SA 4",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "dataLicenseAuthor": "pjwirth",
+    "pattern": "dobradiça-quadril"
+  },
+  {
+    "id": "wger-294",
+    "name": "Elevação pélvica na máquina",
+    "group": "pernas",
+    "muscles": [
+      "glúteos"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "máquinas",
+    "movement": "pernas",
+    "complexity": 1,
+    "instructions": [
+      "Ajuste o apoio e a proteção da máquina sobre o quadril.",
+      "Eleve o quadril sem hiperestender a lombar.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/294.mp4",
+    "poster": "media/294.jpg",
+    "source": "https://wger.de/en/exercise/294/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/294/45bacf4b-1bb6-4d47-8bd1-9f00eddd4019.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "Bret Contreras",
+    "dataLicense": {
+      "id": 2,
+      "full_name": "Creative Commons Attribution Share Alike 4",
+      "short_name": "CC-BY-SA 4",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [],
+    "dataLicenseName": "CC-BY-SA 4",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "dataLicenseAuthor": "Bret Contreras",
+    "pattern": "extensão-quadril"
+  },
+  {
+    "id": "wger-590",
+    "name": "Panturrilha sentada",
+    "group": "pernas",
+    "muscles": [
+      "sóleo"
+    ],
+    "secondaryMuscles": [
+      "panturrilhas"
+    ],
+    "equipment": "máquinas",
+    "movement": "pernas",
+    "complexity": 0,
+    "instructions": [
+      "Apoie a parte da frente dos pés na plataforma.",
+      "Eleve os calcanhares e desça devagar, sem quicar.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/590.mp4",
+    "poster": "media/590.jpg",
+    "source": "https://wger.de/en/exercise/590/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/590/a325ae2e-686b-4a1f-aff2-ba37fa3fa157.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-622"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "panturrilha"
+  },
+  {
+    "id": "wger-622",
+    "name": "Panturrilha em pé",
+    "group": "pernas",
+    "muscles": [
+      "panturrilhas"
+    ],
+    "secondaryMuscles": [
+      "sóleo"
+    ],
+    "equipment": "máquinas",
+    "movement": "pernas",
+    "complexity": 0,
+    "instructions": [
+      "Mantenha o tronco estável e os joelhos destravados.",
+      "Eleve os calcanhares com controle em toda a amplitude confortável.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/622.mp4",
+    "poster": "media/622.jpg",
+    "source": "https://wger.de/en/exercise/622/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/622/461171e5-2b16-407d-bf27-27aeef43f105.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "wger.de",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [
+      "wger-590"
+    ],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "wger.de",
+    "pattern": "panturrilha"
+  },
+  {
+    "id": "wger-12",
+    "name": "Cadeira adutora",
+    "group": "pernas",
+    "muscles": [
+      "glúteos"
+    ],
+    "secondaryMuscles": [],
+    "equipment": "máquinas",
+    "movement": "pernas",
+    "complexity": 0,
+    "instructions": [
+      "Ajuste os apoios e mantenha as costas apoiadas.",
+      "Feche as pernas com controle, sem impulso.",
+      "Use uma amplitude confortável e interrompa se houver dor."
+    ],
+    "media": "media/12.mp4",
+    "poster": "media/12.jpg",
+    "source": "https://wger.de/en/exercise/12/view/",
+    "originalMedia": "https://wger.de/media/exercise-video/12/5148c579-5df2-4618-9a7b-a2e29ac4dd7d.MOV",
+    "author": "Goulart",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataAuthor": "flori",
+    "dataLicense": {
+      "id": 1,
+      "full_name": " Creative Commons Attribution Share Alike 3",
+      "short_name": "CC-BY-SA 3",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    },
+    "mediaChanges": "Transcodificação H.264, resolução 640 px, sem áudio; primeiros 22 segundos no máximo.",
+    "alternatives": [],
+    "dataLicenseName": "CC-BY-SA 3",
+    "dataLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "dataLicenseAuthor": "flori",
+    "pattern": "adução"
+  }
+]
